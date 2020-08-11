@@ -1,0 +1,17 @@
+{
+  "name": "router-next-typing-repro",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "vue": "^3.0.0-rc.5",
+    "vue-router": "^4.0.0-beta.6"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.0-rc.5",
+    "typescript": "^3.9.7",
+    "vite": "^1.0.0-rc.4"
+  }
+}

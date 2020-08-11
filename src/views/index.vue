@@ -7,7 +7,7 @@ import { defineComponent } from "vue";
 
 export default defineComponent({
   computed: {
-    theRoutePath(): any {
+    theRoutePath(): string {
       return this.$route.path;
     },
   },
